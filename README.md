@@ -1,2 +1,2 @@
 # CoreEscuela
-Code from the Platzi .NET Core course.
+Code from the .NET Core Platzi course.
